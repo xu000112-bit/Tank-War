@@ -6,7 +6,7 @@ Welcome to **Tank-War**, an exciting game written in Pygame!
     ```sh
     python Main.py
     ```
-2. Alternatively, click the `main.exe` file.
+2. Alternatively, click the `Main.exe` file.
 
 ## 🌟 Game Features:
 
