@@ -1,4 +1,5 @@
-# 🚀 Tank-War
+<div align="center"><span style="color:red">Tank-War</span></div>
+
 Welcome to **Tank-War**, an exciting game written in Pygame!
 
 ## 🎮 How to Start Playing?
