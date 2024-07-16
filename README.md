@@ -1,4 +1,4 @@
-<div align="center"><span style="color:red">Tank-War</span></div>
+<h1 align="center" style="color: red;">🚀 Tank War 🚀</h1>
 
 Welcome to **Tank-War**, an exciting game written in Pygame!
 
